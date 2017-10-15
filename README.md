@@ -4,3 +4,5 @@ Pytorch Densely Connected Convolutional Networks https://arxiv.org/pdf/1608.0699
 - [ ] load CIFAR
 - [ ] Densenet Architecture
 - [ ] Evaluate training speed 
+
+![architecture](densenets.png)
